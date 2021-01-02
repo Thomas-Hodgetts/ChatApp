@@ -1,0 +1,18 @@
+E:\University\2020\Concurrent & Networking\Networking\Server\Packets\bin\Debug\netstandard2.0\Packets.deps.json
+E:\University\2020\Concurrent & Networking\Networking\Server\Packets\bin\Debug\netstandard2.0\Packets.dll
+E:\University\2020\Concurrent & Networking\Networking\Server\Packets\bin\Debug\netstandard2.0\Packets.pdb
+E:\University\2020\Concurrent & Networking\Networking\Server\Packets\obj\Debug\netstandard2.0\Packets.AssemblyInfoInputs.cache
+E:\University\2020\Concurrent & Networking\Networking\Server\Packets\obj\Debug\netstandard2.0\Packets.AssemblyInfo.cs
+E:\University\2020\Concurrent & Networking\Networking\Server\Packets\obj\Debug\netstandard2.0\Packets.csproj.CoreCompileInputs.cache
+E:\University\2020\Concurrent & Networking\Networking\Server\Packets\obj\Debug\netstandard2.0\Packets.dll
+E:\University\2020\Concurrent & Networking\Networking\Server\Packets\obj\Debug\netstandard2.0\Packets.pdb
+E:\University\2020\Concurrent & Networking\Networking\Server\Packets\obj\Debug\netstandard2.0\Packets.csprojAssemblyReference.cache
+E:\University\2020\Concurrent & Networking\Networking\Server - Copy\Packets\bin\Debug\netstandard2.0\Packets.deps.json
+E:\University\2020\Concurrent & Networking\Networking\Server - Copy\Packets\bin\Debug\netstandard2.0\Packets.dll
+E:\University\2020\Concurrent & Networking\Networking\Server - Copy\Packets\bin\Debug\netstandard2.0\Packets.pdb
+E:\University\2020\Concurrent & Networking\Networking\Server - Copy\Packets\obj\Debug\netstandard2.0\Packets.csprojAssemblyReference.cache
+E:\University\2020\Concurrent & Networking\Networking\Server - Copy\Packets\obj\Debug\netstandard2.0\Packets.AssemblyInfoInputs.cache
+E:\University\2020\Concurrent & Networking\Networking\Server - Copy\Packets\obj\Debug\netstandard2.0\Packets.AssemblyInfo.cs
+E:\University\2020\Concurrent & Networking\Networking\Server - Copy\Packets\obj\Debug\netstandard2.0\Packets.csproj.CoreCompileInputs.cache
+E:\University\2020\Concurrent & Networking\Networking\Server - Copy\Packets\obj\Debug\netstandard2.0\Packets.dll
+E:\University\2020\Concurrent & Networking\Networking\Server - Copy\Packets\obj\Debug\netstandard2.0\Packets.pdb

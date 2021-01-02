@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\University\\2020\\Concurrent & Networking\\Networking\\Server - Copy\\Packets\\Packets.csproj": {}
+  },
+  "projects": {
+    "E:\\University\\2020\\Concurrent & Networking\\Networking\\Server - Copy\\Packets\\Packets.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\University\\2020\\Concurrent & Networking\\Networking\\Server - Copy\\Packets\\Packets.csproj",
+        "projectName": "Packets",
+        "projectPath": "E:\\University\\2020\\Concurrent & Networking\\Networking\\Server - Copy\\Packets\\Packets.csproj",
+        "packagesPath": "C:\\Users\\thomas\\.nuget\\packages\\",
+        "outputPath": "E:\\University\\2020\\Concurrent & Networking\\Networking\\Server - Copy\\Packets\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
